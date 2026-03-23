@@ -42,20 +42,20 @@
 		"test:watch": "jest --watchAll ."
 	},
 	"dependencies": {
-		"chalk": "^5.4.1",
+		"chalk": "^5.6.2",
 		"cli-alerts": "^2.0.0",
 		"cli-handle-error": "^4.4.1",
 		"cli-handle-unhandled": "^1.1.2",
 		"cli-meow-help": "^4.0.0",
 		"cli-welcome": "^3.0.1",
 		"get-package-json-file": "^2.0.0",
-		"meow": "^13.2.0"
+		"meow": "^14.1.0"
 	},
 	"devDependencies": {
-		"eslint": "^9.39.4",
+		"eslint": "^10.1.0",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-prettier": "^5.5.5",
-		"jest": "^29.7.0",
+		"jest": "^30.3.0",
 		"prettier": "^3.8.1"
 	}
 }
